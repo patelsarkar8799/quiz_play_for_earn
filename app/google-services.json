@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069515857802",
+    "project_id": "quiz-play-1a59a",
+    "storage_bucket": "quiz-play-1a59a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069515857802:android:0a0be5a7a85d4f0619f273",
+        "android_client_info": {
+          "package_name": "com.harsh.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyJauSA-AtLVs70CrocKcNxEWNjrrSfsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

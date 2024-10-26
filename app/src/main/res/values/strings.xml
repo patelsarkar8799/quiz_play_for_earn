@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Quiz Play</string>
+    <string name="login">LOGIN</string>
+    <string name="create_an_account">CREATE AN ACCOUNT</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="welcome_back">WELCOME BACK</string>
+    <string name="full_name">Full Name</string>
+    <string name="refer_code">Refer Code</string>
+    <string name="submit">SUBMIT</string>
+    <string name="already_have_an_account">ALREADY HAVE AN ACCOUNT?</string>
+    <string name="privacy_policy">By signing up you agree to our privacy policy and terms and conditions.</string>
+    <string name="wallet">Wallet</string>
+    <string name="rank">Rank</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="earn_money">~Earn Money</string>
+    <string name="collect_coin">~Collect Coin</string>
+    <string name="play_quiz">~Play Quiz</string>
+    <string name="chosse_category">~Chosse Category</string>
+    <string name="instructions">Instructions</string>
+    <string name="invite_friend">Invite Friend</string>
+    <string name="spin_wheel">Spin Wheel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_no">Contact No.</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="quit">QUIT</string>
+    <string name="next">NEXT</string>
+    <string name="restart">RESTART</string>
+    <string name="share">SHARE</string>
+    <string name="_500">500</string>
+    <string name="earned_coin">EARNED COIN</string>
+    <string name="_3_10">3/10</string>
+    <string name="your_scor">YOUR SCOR</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="update_profile">UPDATE PROFILE</string>
+    <string name="log_out">Log Out</string>
+    <string name="your_upi_or_paytm_id">Your UPI or Paytm Id</string>
+    <string name="send_request">SEND REQUEST</string>
+</resources>
